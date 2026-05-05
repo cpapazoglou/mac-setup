@@ -13,10 +13,6 @@
 
 # Manual items
 
-## Alfred
-1. Open `Preferences > Advanced > Set Preferences Folder` and set restore the backup
-2. [TODO] Some dependencies need to be installed manually for now https://www.alfredapp.com/help/kb/install-dependencies/
-
 ## iStat Menus
 1. Restore the backup
 2. Hide the MacOS time and battery icons
@@ -26,9 +22,6 @@
 2. Copy ~/.SwitchHosts
 3. Copy ~/.gitconfig
 4. Run `nvm install node`
-
-## AutoProxy 
-Link: https://fieldguide.automattic.com/autoproxxy/
 
 # Updating the codebase over time
 
